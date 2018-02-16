@@ -8,8 +8,8 @@
 こんにちは
 - test
 - test
- - test
- - test
+  - test
+  - test
 - test
 
 ---
@@ -24,8 +24,8 @@
 1. e
 1. f
 1. g
- 1. h
- 1. i
+  1. h
+  1. i
 1. j
 
 +++
