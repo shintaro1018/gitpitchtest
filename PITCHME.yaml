@@ -1,5 +1,6 @@
 #テーマの設定
-theme : sky
+# options: black, moon, night, beige, sky, and white(default)
+# theme : moon
 
 
 #ロゴアイコンの設定
