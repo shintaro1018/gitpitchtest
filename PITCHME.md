@@ -6,9 +6,9 @@
 
 ## page 2
 こんにちは
-- test
-- test
--- test
+* test
+* test
+** test
 
 ---
 
