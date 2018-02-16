@@ -1,13 +1,13 @@
 #テーマの設定
 # options: black, moon, night, beige, sky, and white(default)
-# theme : moon
+#theme : moon
 
 # Background image
-# background : assets/bg.jpg
+#background : assets/bg.jpg
 
 # Background image size
 # options: auto, contain, cover
-# background-size : cover
+#background-size : cover
 
 #ロゴアイコンの設定
 logo : OpenStack_UserGroup_Japan_round.jpg
@@ -21,7 +21,7 @@ footnote : "© 2018 JOSUG"
 slide-number: true
 
 #コンテンツの垂直アライメント（デフォルト中央）
-vertical-center : false
+#vertical-center : false
 
 #スライドのループ設定
 loop : true
