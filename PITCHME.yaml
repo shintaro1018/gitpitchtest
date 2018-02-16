@@ -12,3 +12,14 @@ footnote : "© 2018 JOSUG"
 
 #スライドのページ数表示の設定
 slide-number: true
+
+#スライドのループ設定
+loop : true
+
+
+#トランジションの設定
+transition : fade
+
+
+#チャート / グラフ機能の設定
+charts : true
