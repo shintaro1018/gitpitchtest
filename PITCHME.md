@@ -8,7 +8,7 @@
 こんにちは
 * test
 * test
-** test
+ * test
 
 ---
 
